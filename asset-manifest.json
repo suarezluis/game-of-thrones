@@ -1,14 +1,13 @@
 {
-  "main.css": "/game-of-thrones/static/css/main.6af2406e.chunk.css",
-  "main.js": "/game-of-thrones/static/js/main.c177780e.chunk.js",
-  "main.js.map": "/game-of-thrones/static/js/main.c177780e.chunk.js.map",
+  "main.css": "/game-of-thrones/static/css/main.f027c54b.chunk.css",
+  "main.js": "/game-of-thrones/static/js/main.fdda5fb6.chunk.js",
+  "main.js.map": "/game-of-thrones/static/js/main.fdda5fb6.chunk.js.map",
   "runtime~main.js": "/game-of-thrones/static/js/runtime~main.2bb8da27.js",
   "runtime~main.js.map": "/game-of-thrones/static/js/runtime~main.2bb8da27.js.map",
   "static/js/2.ba01c51e.chunk.js": "/game-of-thrones/static/js/2.ba01c51e.chunk.js",
   "static/js/2.ba01c51e.chunk.js.map": "/game-of-thrones/static/js/2.ba01c51e.chunk.js.map",
   "index.html": "/game-of-thrones/index.html",
-  "precache-manifest.adc25af0222e7d43dc78bb292eaa2146.js": "/game-of-thrones/precache-manifest.adc25af0222e7d43dc78bb292eaa2146.js",
+  "precache-manifest.866d223edaf5010721076de804a685e6.js": "/game-of-thrones/precache-manifest.866d223edaf5010721076de804a685e6.js",
   "service-worker.js": "/game-of-thrones/service-worker.js",
-  "static/css/main.6af2406e.chunk.css.map": "/game-of-thrones/static/css/main.6af2406e.chunk.css.map",
-  "static/media/App.css": "/game-of-thrones/static/media/GameOfThrones.3af178ec.ttf"
+  "static/css/main.f027c54b.chunk.css.map": "/game-of-thrones/static/css/main.f027c54b.chunk.css.map"
 }

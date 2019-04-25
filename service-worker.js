@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/game-of-thrones/precache-manifest.adc25af0222e7d43dc78bb292eaa2146.js"
+  "/game-of-thrones/precache-manifest.866d223edaf5010721076de804a685e6.js"
 );
 
 workbox.clientsClaim();
