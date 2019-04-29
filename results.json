@@ -8,7 +8,7 @@
   "Tyron Lannister": "A",
   "Daenerys Targaryen": "A",
   "Davos Seaworth": "A",
-  "Jorah Mormont": "A",
+  "Jorah Mormont": "D",
   "Messandei": "A",
   "Grey Worm": "A",
   "Samwell Tarkey": "A",
@@ -23,11 +23,11 @@
   "Bronn": "A",
   "Gendry": "A",
   "Tormund Giantsbane": "A",
-  "Melissandre": "A",
-  "Theon Greyjoy": "A",
+  "Melissandre": "D",
+  "Theon Greyjoy": "D",
   "Yara Greyjoy": "A",
   "Euron Greyjoy": "A",
-  "Beric Dondarrion": "A",
+  "Beric Dondarrion": "D",
   "Qyburn": "A",
-  "Night King": "A"
+  "Night King": "D"
 }
