@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/game-of-thrones/static/js/runtime~main.2bb8da27.js"
   },
   {
-    "revision": "2949e6c99c27aa30c148",
+    "revision": "b262efced370ad66fc84",
     "url": "/game-of-thrones/static/js/main.6f870619.chunk.js"
   },
   {
@@ -12,11 +12,11 @@ self.__precacheManifest = [
     "url": "/game-of-thrones/static/js/2.ba01c51e.chunk.js"
   },
   {
-    "revision": "2949e6c99c27aa30c148",
-    "url": "/game-of-thrones/static/css/main.22d791f0.chunk.css"
+    "revision": "b262efced370ad66fc84",
+    "url": "/game-of-thrones/static/css/main.b6f52c65.chunk.css"
   },
   {
-    "revision": "d208edbb247a7e80cc209a7fc1eb4b6e",
+    "revision": "423d874a20625f74251237e3b3d5e188",
     "url": "/game-of-thrones/index.html"
   }
 ];
